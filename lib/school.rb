@@ -13,7 +13,6 @@ def roster=(roster)
   @roster = roster
 end
 
-  ROSTER << name
 
 
 
