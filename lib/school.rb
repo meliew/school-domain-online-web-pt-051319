@@ -9,7 +9,7 @@ def initialize(name)
 end
 
 
-  ROSTER << name 
+  ROSTER << name
 
 
 
@@ -19,5 +19,3 @@ end
 
 def add_student
 end
-
-
